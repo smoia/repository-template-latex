@@ -7,5 +7,7 @@ By default, the compiled pdf file is published into the folder `compiled`. Equal
 
 It's licensed by the most open licence possible, i.e. _The Unlicense_. Unless you want to release the content of your project under the same licence, it has to be changed before (or in) the first commit containing content, even if the project is meant to be private (you never know if it will stay so forever).
 
+In order to work, it requires a repository secret with repository writing permit. It also requires to set up the email and author of the commit in the workflow.  
+
 
 :exclamation::exclamation::exclamation: **Remember to change the licence _before_ (or in) your first commit containing content, even if the project is meant to be private** :exclamation::exclamation::exclamation:

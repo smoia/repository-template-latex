@@ -50,5 +50,5 @@ jobs:
           commit-message: 'publish built pdf to master [skip ci]'
           force-add: 'true'
           files: compiled/main.pdf
-          name: Stefano Moia
-          email: s.moia@bcbl.eu
+          name: YOURNAME
+          email: YOUREMAIL
